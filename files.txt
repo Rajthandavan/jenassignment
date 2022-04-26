@@ -1,0 +1,2 @@
+this is a cicd pipeline for automation 
+if we push it to github test job should write the code to test node if stable then it should copy the files to prod node 
